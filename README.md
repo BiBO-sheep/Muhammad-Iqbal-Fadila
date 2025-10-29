@@ -15,7 +15,7 @@ Fitur Utama
 Teknologi yang Digunakan
 HTML5 — Struktur halaman  
 CSS3 — Styling dan layout  
-JavaScript (Vanilla JS)** — Interaktivitas dan animasi  
+JavaScript (Vanilla JS — Interaktivitas dan animasi  
 GitHub Pages — Hosting dan deployment
 
 Tujuan Proyek
